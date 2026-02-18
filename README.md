@@ -13,8 +13,7 @@
 <h2> Certification </h2>
 
 - Google Cybersecurity Certification
-- Google IT support Certification
-- Tryhackme Certification
+- ALX Virtual Assistant Certification
 
 
 
